@@ -1,0 +1,5 @@
+When set free stream velocity is 20m/s: 
+Corresponding Reynolds number for MH61 at 20m/s is342370.03912800446 493012.85634432646 958636.1095584127 1342090.5533817776 
+Corresponding Reynolds number for MH104 at 20m/s is 2081609.8378982674 2328116.26607043 
+Corresponding Velocity for MH61 1m Profile is 5.0m/s 7.199999999999999m/s 14.0m/s 19.6m/s 
+Corresponding Velocity for MH104 1m Profile is 30.4m/s 33.99999999999999m/s  
